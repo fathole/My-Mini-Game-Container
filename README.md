@@ -1,2 +1,2 @@
 # My-Mini-Game-Container
-The Mini Game That Made A Few Year Ago. With No Structure And No Programming Skill
+The mini game that i made several years ago Which have no programming skill and structure.
